@@ -1,0 +1,20 @@
+What is Artificial Intelligence?
+Artificial Intelligence is a field of computer science that focuses on creating machines capable of performing tasks that require human intelligence.
+
+What is Machine Learning?
+Machine Learning is a subset of Artificial Intelligence that enables systems to learn from data and improve performance without being explicitly programmed.
+
+What is Deep Learning?
+Deep Learning is a subset of Machine Learning based on neural networks with multiple layers.
+
+What are examples of AI?
+Examples of AI include chatbots, recommendation systems, voice assistants, image recognition, and autonomous vehicles.
+
+What is Natural Language Processing?
+Natural Language Processing (NLP) is a branch of AI that helps computers understand, interpret, and generate human language.
+
+What is Computer Vision?
+Computer Vision enables machines to interpret and analyze visual information from images and videos.
+
+Difference between AI and ML?
+AI is the broader concept of machines simulating human intelligence, while ML is a technique used to achieve AI through learning from data.
